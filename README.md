@@ -1,2 +1,2 @@
 # Landcover-Geemap
-Code for Landcover mapping with Google Earth Engina + Geemap + Pyhton library and codes
+Code for Landcover mapping with Google Earth Engine + Geemap + Pyhton library and codes
